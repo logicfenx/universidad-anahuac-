@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/universidad-anahuac-",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a universidad-anahuac-",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/universidad-anahuac-.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.rincondelviaje.com/universidad-anahuac-xalapa/"
+    },
+    "homepage": "https://www.rincondelviaje.com/universidad-anahuac-xalapa/"
+}
